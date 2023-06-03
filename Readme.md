@@ -8,4 +8,4 @@ It is an app to
 - Merge PDFs into a single one   
 - Compress a pdf  
 
-and it will work offline :)
+and it works offline :)
